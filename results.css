@@ -1,0 +1,109 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+#BOX001 {
+    background-color: rgba(13, 13, 212, 0.822);
+    color: azure;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 1%;
+}
+
+body {
+    width: 960px;
+    float: left;
+    margin-top: 3%;
+    padding-left: 1%;
+    background-color: rgb(58, 58, 88 );
+}
+.main1 {
+    display: inline;
+}
+
+.BOX {
+    height: 40px;
+    min-width: 40px;
+    margin-right: 0%;
+}
+
+.ONE {
+    background-color: rgb(168, 168, 221); 
+}
+
+.BOX002 {
+    background-color: rgb(6, 6, 114);
+    color:  rgb(168, 168, 221);
+    margin: 0.2%;
+    margin-right: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    padding-left: 1%;
+    margin-bottom: 0.6%;
+}
+
+.main2 {
+    background-color: khaki;
+    min-width: 960px;
+    text-align: left;
+    border-color: darkgoldenrod;
+    margin-right: 0%;
+    border-width: 2px;
+    height: 100px;
+}
+
+td {
+    font-weight: bold;
+    border: solid white;
+    border-collapse: collapse;
+}
+
+.BOX3 {
+    background-color: rgb(6, 6, 114);
+    color:  rgb(168, 168, 221);
+    margin: 0.2%;
+    margin-right: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    padding-left: 1%;
+    margin-top: 0.6%;
+    margin-bottom: 0.6%;
+}
+
+.main3 {
+    background-color: khaki;
+    min-width: 960px;
+    text-align: left;
+    margin-right: 60px;
+    border-width: 2px;
+    height: 300px;
+}
+
+
+td {
+    font-weight: bold;
+    border: solid white;
+    border-collapse: collapse;
+}
+
+.BOX004 {
+    background-color: rgb(6, 6, 114);
+    color:  rgb(168, 168, 221);
+    margin: 0.2%;
+    margin-right: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    padding-left: 1%;
+    margin-top: 0.6%;
+    margin-bottom: 0.6%;
+}
+
+.main4 {
+    background-color: khaki;
+    min-width: 960px;
+}
